@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://graduatepishi.github.io/sitemap.xml
